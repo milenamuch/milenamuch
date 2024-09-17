@@ -7,7 +7,7 @@
 
 ### My interests
 - 👩‍💻 Back-end development in Python
-- 🔎 Starting to explore API development
+- 🔎 Starting to explore API development with Rest and GraphQL
 
 ### Certifications
 - ✅ Entry Level Python Certification, PCEP. Check <a href="https://www.credly.com/badges/958512d0-94ab-474a-a6c9-b62f6b93de31/linked_in_profile" target="_blank">here.</a>
