@@ -3,10 +3,10 @@
 ### About me
 - 🎓 I have a degree in Systems Analysis and Development
 - 📌 Background knowledge in Product Management
-- 🐍 I’m currently learning Python
+- 📚 I’m currently learning Python and Java
 
 ### My interests
-- 👩‍💻 Back-end development in Python
+- 👩‍💻 Back-end development in Python and Java
 - 🔎 Starting to explore API development with Rest and GraphQL
 
 ### Certifications
